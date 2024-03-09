@@ -1,0 +1,12 @@
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\bin\Release\net7.0\ConvertProLibrary.deps.json
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\bin\Release\net7.0\ConvertProLibrary.dll
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\bin\Release\net7.0\ConvertProLibrary.pdb
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.csproj.AssemblyReference.cache
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.AssemblyInfoInputs.cache
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.AssemblyInfo.cs
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.csproj.CoreCompileInputs.cache
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.dll
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\refint\ConvertProLibrary.dll
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ConvertProLibrary.pdb
+C:\Users\npatidar\source\repos\POC\ConvertProLibrary\ConvertProLibrary\obj\Release\net7.0\ref\ConvertProLibrary.dll
