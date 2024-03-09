@@ -1,6 +1,6 @@
 # ConvertProLibrary
 
-ConvertProLibrary is a C# library that provides functionalities for converting units of measurement. It offers a simple and easy-to-use API for performing conversions between different units, such as length, weight, volume, temperature, and more.
+ConvertProLibrary is a C# library that provides functionalities for converting units of measurement. It offers a simple and easy-to-use API for performing conversions between different units, such as length, weight, Time, Currency, Timezones and more.
 
 ## Installation
 
